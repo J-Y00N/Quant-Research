@@ -1,1 +1,1 @@
-# QuantitativeTradingSuite
+# Quant-Research
